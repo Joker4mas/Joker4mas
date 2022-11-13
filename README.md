@@ -1,11 +1,11 @@
 
 ## 🚀 Samuel Ogbaje
-I'm a Passionate Upcoming frontend developer...
+I'm a Passionate Aspiring frontend developer...
 
 I'm a frontend developer, with a keen desire to venture into Full stack
 # Hi, I'm Samuel 👋Ogbaje!
 
-A passionate Frontend Learner/Developer
+A passionate Frontend Developer
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ogbaje-71828010b//)
