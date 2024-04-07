@@ -38,5 +38,5 @@ A passionate Frontend Developer
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, ReactJs, HTML, Tailwindcss,...
 
